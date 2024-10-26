@@ -1,5 +1,5 @@
 
-const backendDomain="http://127.0.0.1:5000"
+const backendDomain="https://ecombackend-seven.vercel.app"
 const summaryAPI={
      signup:{
          url:`${backendDomain}/api/signup`,
